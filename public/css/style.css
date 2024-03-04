@@ -1,0 +1,685 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.sign-up-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    padding-inline-start: 5%
+}
+
+.sign-up-form {
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.sign-up-form h2 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.input-group label {
+    font-size: 14px;
+    color: #000000;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.sign-up-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffaa00;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.or-divider {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.or-divider hr {
+    flex: 1;
+    border: none;
+    height: 1px;
+    background-color: #d9d9d9;
+    margin: 0;
+}
+
+.or-divider span {
+    padding: 0 10px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.additional-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.social-sign-up-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+
+.social-sign-up-btn img {
+    width: 24px;
+    height: 24px;
+}
+
+.terms-agreement {
+    margin-top: 10px;
+}
+
+.terms-agreement label {
+    font-size: 12px;
+    color: #000000;
+}
+
+.have-account {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #000000;
+}
+
+.have-account span {
+    color: #0f3cde;
+    cursor: pointer;
+}
+
+.box {
+    width: 100px;
+    height: 10px;
+}
+
+.box .rectangle {
+    position: fixed;
+    width: 950px;
+    height: 800px;
+    top: 0;
+    right: 0;
+    background: linear-gradient(180deg, rgb(255, 245.4, 15) 0%, rgb(255, 168.3, 0) 100%);
+}
+.image {
+    width: 100px;
+    height: 10px;
+}
+
+.image .eatways {
+    position: fixed;
+    width: 500px;
+    height: 399px;
+    top: 22%;
+    right: 0;
+    left: 55%;
+    object-fit: cover;
+}
+
+.image .img10 {
+    position: fixed;
+    width: 490px;
+    height: 351px;
+    top: 0;
+    right: 0;
+    object-fit: cover
+}
+
+.image .img9 {
+    position: fixed;
+    width: 577px;
+    height: 416px;
+    top: 44%;
+    right: 24.2%;
+    object-fit: cover
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.sign-up-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    padding-inline-start: 5%
+}
+
+.sign-up-form {
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.sign-up-form h2 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.input-group label {
+    font-size: 14px;
+    color: #000000;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.sign-up-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffaa00;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.or-divider {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.or-divider hr {
+    flex: 1;
+    border: none;
+    height: 1px;
+    background-color: #d9d9d9;
+    margin: 0;
+}
+
+.or-divider span {
+    padding: 0 10px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.additional-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.social-sign-up-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+
+.social-sign-up-btn img {
+    width: 24px;
+    height: 24px;
+}
+
+.terms-agreement {
+    margin-top: 10px;
+}
+
+.terms-agreement label {
+    font-size: 12px;
+    color: #000000;
+}
+
+.have-account {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #000000;
+}
+
+.have-account span {
+    color: #0f3cde;
+    cursor: pointer;
+}
+
+.box {
+    width: 100px;
+    height: 10px;
+}
+
+.box .rectangle {
+    position: fixed;
+    width: 950px;
+    height: 800px;
+    top: 0;
+    right: 0;
+    background: linear-gradient(180deg, rgb(255, 245.4, 15) 0%, rgb(255, 168.3, 0) 100%);
+}
+.image {
+    width: 100px;
+    height: 10px;
+}
+
+.image .eatways {
+    position: fixed;
+    width: 500px;
+    height: 399px;
+    top: 22%;
+    right: 0;
+    left: 55%;
+    object-fit: cover;
+}
+
+.image .img10 {
+    position: fixed;
+    width: 490px;
+    height: 351px;
+    top: 0;
+    right: 0;
+    object-fit: cover
+}
+
+.image .img9 {
+    position: fixed;
+    width: 577px;
+    height: 416px;
+    top: 44%;
+    right: 24.2%;
+    object-fit: cover
+}
+
+.bg-orange {
+    background-color: #ff910f !important;
+}
+
+.navbar-nav .nav-link {
+        color: #ffffff; /* Warna teks */
+        font-size: 16px; /* Ukuran font */
+        font-weight: bold; /* Ketebalan font */
+        margin-right: 20px; /* Jarak antara tautan */
+        font-style: 'poppins',sans-serif ;
+        margin-left: auto;
+}
+
+.navbar-nav .nav-link:hover {
+        color: #ffffff; /* Warna teks saat dihover */
+        text-decoration: underline; /* Menghilangkan garis bawah saat dihover */
+}
+
+.carousel-item img {
+  display: block;
+  margin: auto; /* Memposisikan gambar di tengah layar */
+  max-width: 500px; /* Atur lebar maksimum gambar */
+  max-height: 500px; /* Atur tinggi maksimum gambar */
+}
+
+
+/* Atur interval slide menjadi 3 detik */
+.carousel-item {
+  animation: slide 3s ease-in-out infinite alternate;
+}
+
+@keyframes slide {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(20px); /* Geser gambar ke bawah sejauh 20px */
+  }
+}
+
+.label {
+  width: 374px;
+  height: 41px;
+}
+
+.label .text-wrapper {
+  position: absolute;
+  font-family: "Poppins-SemiBold", Helvetica;
+  margin-left: 30px;
+  margin-top: 20px;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.frame {
+  width: 1500px;
+  height: 394.5px;
+  overflow-x: auto;
+}
+
+.frame::-webkit-scrollbar{
+  width: 1;
+}
+
+.frame .group {
+  position: relative;
+  height: 377px;
+}
+
+.frame .menu {
+  left: 0;
+  position: absolute;
+  width: 296px;
+  height: 377px;
+  top: 0;
+}
+
+.frame .overlap {
+  position: relative;
+  width: 294px;
+  height: 377px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 287px;
+  height: 370px;
+  top: 7px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.frame .image {
+  position: absolute;
+  width: 243px;
+  height: 198px;
+  top: 42px;
+  left: 24px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 243px;
+  top: 254px;
+  left: 24px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.frame .bookmark {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 0;
+  left: 230px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  width: 37px;
+  height: 48px;
+  top: 8px;
+  left: 13px;
+  background-image: url(./img/vector-4.svg);
+  background-size: 100% 100%;
+}
+
+.frame .div {
+  position: absolute;
+  top: 4px;
+  left: 15px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.frame .rating {
+  position: absolute;
+  width: 70px;
+  height: 25px;
+  top: 331px;
+  left: 24px;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000b2;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.frame .img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
+
+.frame .time {
+  position: absolute;
+  width: 80px;
+  height: 25px;
+  top: 331px;
+  left: 189px;
+}
+
+.frame .overlap-wrapper {
+  left: 339px;
+  position: absolute;
+  width: 296px;
+  height: 377px;
+  top: 0;
+}
+
+.frame .div-wrapper {
+  position: relative;
+  width: 37px;
+  height: 48px;
+  top: 8px;
+  left: 13px;
+  background-image: url(./img/vector-2.svg);
+  background-size: 100% 100%;
+}
+
+.frame .rating-2 {
+  width: 68px;
+  position: absolute;
+  height: 25px;
+  top: 331px;
+  left: 24px;
+}
+
+.frame .time-2 {
+  width: 85px;
+  position: absolute;
+  height: 25px;
+  top: 331px;
+  left: 189px;
+}
+
+.frame .overlap-group-wrapper {
+  left: 1356px;
+  position: absolute;
+  width: 296px;
+  height: 377px;
+  top: 0;
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  width: 37px;
+  height: 48px;
+  top: 8px;
+  left: 13px;
+  background-image: url(./img/vector-5.svg);
+  background-size: 100% 100%;
+}
+
+.frame .menu-2 {
+  left: 678px;
+  position: absolute;
+  width: 296px;
+  height: 377px;
+  top: 0;
+}
+
+.frame .overlap-group-3 {
+  position: relative;
+  width: 37px;
+  height: 48px;
+  top: 8px;
+  left: 13px;
+  background-image: url(./img/vector.svg);
+  background-size: 100% 100%;
+}
+
+.frame .rating-3 {
+  width: 69px;
+  position: absolute;
+  height: 25px;
+  top: 331px;
+  left: 24px;
+}
+
+.frame .time-3 {
+  width: 84px;
+  position: absolute;
+  height: 25px;
+  top: 331px;
+  left: 189px;
+}
+
+.frame .menu-3 {
+  left: 1017px;
+  position: absolute;
+  width: 296px;
+  height: 377px;
+  top: 0;
+}
+
+.frame .overlap-group-4 {
+  position: relative;
+  width: 37px;
+  height: 48px;
+  top: 8px;
+  left: 13px;
+  background-image: url(./img/vector-3.svg);
+  background-size: 100% 100%;
+}
+
+
+.label {
+  width: 261px;
+  height: 41px;
+}
+
+.label .tips-dari-eatways {
+  position: relative;
+  top: 0;
+  left: 0;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.label .span {
+  font-family: "Poppins-SemiBoldItalic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+}
+
+div.gallery {
+  margin: 30px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1); 
+  float: left;
+  width: 380px;
+  margin-inline-start: 77px;
+}
+
+div.gallery:hover {
+  
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+div.gallery1 {
+  display: flex;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1); 
+  width: 1300px;
+  margin-inline-start: 100px;
+  margin-bottom: 50px;
+}
+
+div.gallery2 {
+  display: flex;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1); 
+  width: 1300px;
+  margin-inline-start: 100px;
+  margin-bottom: 50px;
+}
