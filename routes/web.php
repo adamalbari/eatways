@@ -36,4 +36,12 @@ Route::get('/tips', function () {
 Route::get('/kuliner', function () {
     return view('kuliner');
 });
+
+Route::get('/tips2', function () {
+    return view('tips2');
+});
+
+Route::get('/kuliner2', function () {
+    return view('kuliner2');
+});
 Route::get('/signup', 'SignupController@create')->name('signup.create');

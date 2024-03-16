@@ -1,5 +1,7 @@
 @extends('layouts.auth')
 @section('container')
+
+
 <div class="sign-up-container">
     <div class="sign-up-form">
         <h2>Get Started Now</h2>
