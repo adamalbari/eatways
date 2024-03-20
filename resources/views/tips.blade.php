@@ -104,7 +104,7 @@
 
 
 <div class="gallery">
-  <a target="_blank" href="makanan.png">
+  <a target="_blank" href="{{ url('/tips2') }}">
     <img src="images/makanan.png" alt="makanan" width="600" height="400">
   </a>
   <div class="desc">Tips Meningkatkan Rasa Makanan buat dapetin hati mertua</div>

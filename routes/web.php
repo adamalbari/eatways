@@ -14,34 +14,34 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/login', function () {
-    return view('login');
+    return view('login', ['pageTitle' => 'Login']);
 });
 
 Route::get('/register', function () {
-    return view('register');
+    return view('register', ['pageTitle' => 'Register']);
 });
 
 Route::get('/home', function () {
-    return view('home');
+    return view('home', ['pageTitle' => 'Home']);
 });
 
 Route::get('/resep', function () {
-    return view('resep');
+    return view('resep', ['pageTitle' => 'Resep Makanan']);
 });
 
 Route::get('/tips', function () {
-    return view('tips');
+    return view('tips', ['pageTitle' => 'Tips']);
 });
 
 Route::get('/kuliner', function () {
-    return view('kuliner');
+    return view('kuliner', ['pageTitle' => 'Kuliner']);
 });
 
 Route::get('/tips2', function () {
-    return view('tips2');
+    return view('tips2', ['pageTitle' => 'Tips 2']);
 });
 
 Route::get('/kuliner2', function () {
-    return view('kuliner2');
+    return view('kuliner2', ['pageTitle' => 'Kuliner 2']);
 });
 Route::get('/signup', 'SignupController@create')->name('signup.create');

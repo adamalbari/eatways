@@ -13,7 +13,7 @@
             <label for="password">Password</label>
             <input type="password" id="password" placeholder="Enter your password">
         </div>
-        <button class="sign-up-btn">Sign In</button>
+        <button class="sign-up-btn" onclick="window.location.href='{{ url('/home') }}'">Sign Up</button>
         <div class="or-divider">
             <hr>
             <span>Or</span>
@@ -34,8 +34,8 @@
             <label for="terms-agree">I agree to the terms & policy</label>
         </div>
         <div class="have-account">
-            <p>Don't have an account? <span>Sign up</span></p>
-        </div>
+            <p>Don't have an account? <a href="{{ url('/register') }}">Sign up</a></p>
+        </div>        
         <div class="box">
             <div class="rectangle"></div>
         </div>

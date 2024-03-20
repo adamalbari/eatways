@@ -81,11 +81,12 @@
 </style>
 
 <div class="gallery">
-    <a target="_blank" href="pizza.png">
+  <a target="_blank" href="{{ url('/kuliner2') }}">
       <img src="images/pizza.png" alt="pizza" width="600" height="400">
-    </a>
-    <div class="desc">Cobain kuliner khas Italia! Pizza dengan keju mozarella</div>
-  </div>
+  </a>
+  <div class="desc">Cobain kuliner khas Italia! Pizza dengan keju mozarella</div>
+</div>
+
   
   <div class="gallery">
     <a target="_blank" href="dimsum.png">

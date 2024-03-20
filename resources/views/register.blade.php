@@ -15,7 +15,7 @@
             <label for="password">Password</label>
             <input type="password" id="password" placeholder="Enter your password">
         </div>
-        <button class="sign-up-btn">Sign Up</button>
+        <button class="sign-up-btn" onclick="window.location.href='{{ url('/home') }}'">Sign Up</button>
         <div class="or-divider">
             <hr>
             <span>Or</span>
