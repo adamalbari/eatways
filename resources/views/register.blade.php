@@ -15,20 +15,20 @@
             <label for="password">Password</label>
             <input type="password" id="password" placeholder="Enter your password">
         </div>
-        <button class="sign-up-btn" onclick="window.location.href='{{ url('/home') }}'">Sign Up</button>
+        <button class="sign-up-btn" onclick="window.location.href='{{ url('/login') }}'">Sign Up</button>
         <div class="or-divider">
             <hr>
-            <span>Or</span>
+            <span style="margin-top: 3%;">Or</span>
             <hr>
         </div>
         <div class="additional-options">
             <button class="social-sign-up-btn google-btn">
                 <img src="https://c.animaapp.com/X8dm0i6q/img/icons8-google-1-1.svg" alt="Google Logo">
-                <span>Sign in with Google</span>
+                <span>Sign up with Google</span>
             </button>
             <button class="social-sign-up-btn apple-btn">
                 <img src="https://c.animaapp.com/X8dm0i6q/img/icons8-apple-logo-1-1.svg" alt="Apple Logo">
-                <span>Sign in with Apple</span>
+                <span>Sign up with Apple</span>
             </button>
         </div>
         <div class="terms-agreement">
@@ -36,7 +36,7 @@
             <label for="terms-agree">I agree to the terms & policy</label>
         </div>
         <div class="have-account">
-            <p>Have an account? <span>Sign In</span></p>
+            <p>Have an account? <a href="{{ url('/login') }}">Sign in</a></p>
         </div>
         <div class="box">
             <div class="rectangle"></div>

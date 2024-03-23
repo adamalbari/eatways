@@ -13,10 +13,10 @@
             <label for="password">Password</label>
             <input type="password" id="password" placeholder="Enter your password">
         </div>
-        <button class="sign-up-btn" onclick="window.location.href='{{ url('/home') }}'">Sign Up</button>
+        <button class="sign-up-btn" onclick="window.location.href='{{ url('/home') }}'">Sign in</button>
         <div class="or-divider">
             <hr>
-            <span>Or</span>
+            <span style="margin-top: 3%;">Or</span>
             <hr>
         </div>
         <div class="additional-options">

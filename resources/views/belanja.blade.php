@@ -3,57 +3,79 @@
 @include('templates.navbar')
 
 <head>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
-</head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+  </head>
+  
+  <style>
+    body {
+      background-color: #f0f0f0;
+    }
+  </style>
 
-<style>
-  body {
-    background-color: #f0f0f0;
-  }
-</style>
-
-<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="images/image3(1).png" class="d-block w-100" alt="img3(1)">
-    </div>
-    <div class="carousel-item">
-      <img src="images/image3.png" class="d-block w-100" alt="img3">
-    </div>
-    <div class="carousel-item">
-      <img src="images/image4.png" class="d-block w-100" alt="img4">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-
-<h1>
-  Rekomendasi Menu Hari Ini
-</h1>
 
 <div>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
-    <img style="margin-inline-start: 11%; margin-top: 1%;" src="images/rekmenu1.png" alt="menu1" width="220px" height="auto">
+    <h1 style="text-align: center; margin-top: 4%; font-size: 30px;">
+        Selamat Datang di Eatways!
+    </h1>
+</div>
+
+<div>
+  <a href="link_gambar_menu1.html" style="text-decoration: none;">
+      <img style="margin-inline-start: 17%; margin-top: 2%;" src="images/menu1.png" alt="menu1" width="180px" height="auto">
   </a>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
-    <img style="margin-left: 15px; margin-top: 1%;" src="images/rekmenu2.png" alt="menu2" width="220px" height="auto">
+  <a href="link_gambar_menu2.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu2.png" alt="menu2" width="180px" height="auto">
   </a>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
-    <img style="margin-left: 15px; margin-top: 1%;" src="images/rekmenu3.png" alt="menu3" width="220px" height="auto">
+  <a href="link_gambar_menu3.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu3.png" alt="menu3" width="180px" height="auto">
   </a>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
-    <img style="margin-left: 15px; margin-top: 1%;" src="images/rekmenu4.png" alt="menu4" width="220px" height="auto">
+  <a href="link_gambar_menu4.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu4.png" alt="menu4" width="180px" height="auto">
   </a>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
-    <img style="margin-left: 15px; margin-top: 1%;" src="images/rekmenu5.png" alt="menu5" width="220px" height="auto">
+  <a href="link_gambar_menu5.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu5.png" alt="menu5" width="180px" height="auto">
   </a>
+</div>
+
+<div>
+  <a href="link_gambar_menu1.html" style="text-decoration: none;">
+      <img style="margin-inline-start: 17%; margin-top: 2%;" src="images/menu6.png" alt="menu1" width="180px" height="auto">
+  </a>
+  <a href="link_gambar_menu2.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu7.png" alt="menu2" width="180px" height="auto">
+  </a>
+  <a href="link_gambar_menu3.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu8.png" alt="menu3" width="180px" height="auto">
+  </a>
+  <a href="link_gambar_menu4.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu9.png" alt="menu4" width="180px" height="auto">
+  </a>
+  <a href="link_gambar_menu5.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu10.png" alt="menu5" width="180px" height="auto">
+  </a>
+</div>
+
+<div>
+  <a href="link_gambar_menu1.html" style="text-decoration: none;">
+      <img style="margin-inline-start: 17%; margin-top: 2%;" src="images/menu11.png" alt="menu1" width="180px" height="auto">
+  </a>
+  <a href="link_gambar_menu2.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu12.png" alt="menu2" width="180px" height="auto">
+  </a>
+  <a href="link_gambar_menu3.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu13.png" alt="menu3" width="180px" height="auto">
+  </a>
+  <a href="link_gambar_menu4.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu14.png" alt="menu4" width="180px" height="auto">
+  </a>
+  <a href="link_gambar_menu5.html" style="text-decoration: none;">
+      <img style="margin-left: 15px; margin-top: 2%;" src="images/menu15.png" alt="menu5" width="180px" height="auto">
+  </a>
+</div>
+
+
+<div style="text-align: center;">
+  <button type="button" style="background-color:#FF910F; color: white; border: none; border-radius: 10px; width: 450px; height: 35px; margin-top: 30px;">LIHAT TIPS LAINNYA</button>
 </div>
 
 <h1>Tips dari Eatways ! <a href="{{ url('/tips') }}"><span class="lihatlainnya">tips lainnya!</span></a></h1>
@@ -86,6 +108,7 @@
   }
 </style>
 
+
   <div class="gallery">
     <a target="_blank" href="image6.png">
       <img src="images/image6.png" alt="asahpisau" width="600" height="400">
@@ -106,6 +129,7 @@
     </a>
     <div class="desc">Tips Memilih Bahan Makanan agar Hasil Masakan-mu Enak!</div>
   </div>
+
 
   <h1>Kuliner bareng Eatways !</h1>
 <p><span style="color: #FF910F; font-style: italic;">EatWays!</span> Punya rekomendasi kulineran yang enak lho! Yuk Kepoin!!</p>
@@ -458,4 +482,5 @@ section {
 
 }
 </style>
-@endsection   
+
+@endsection

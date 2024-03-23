@@ -16,7 +16,7 @@
 
 <div style="margin-top:5%; margin-inline-start: 2%; font-size:25px; margin-bottom: 1%;">
     <head>
-        Tips Meningkatkan Rasa Makanan buat dapetin hati <br>Almira</br>
+        Tips Meningkatkan Rasa Makanan buat dapetin hati <br>Mertua</br>
     </head>
 </div>
 

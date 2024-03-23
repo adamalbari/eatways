@@ -13,94 +13,95 @@
 </style>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="images/ayambakar.jpg" alt="pindang" style="width: 40%; border-radius: 2%; margin-top: 2%;" />
+  <img src="images/sate.jpg" alt="pindang" style="width: 40%; border-radius: 2%; margin-top: 2%;" />
 </div>
 
 <div class="resepayam">
-    <h1>Resep Ayam Bakar Bumbu Kecap Manis</h1>
+    <h1>Resep Sate Ayam Bumbu Kacang</h1>
     <p>Bahan :</p>
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 1 kg ayam (potong sesuai selera, bisa pilih bagian sayap, paha, atau dada)</li>
+    <li class="textbox1"> 250 gr daging ayam bagian dada
+    </li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 5 sendok makan kecap manis</li>
+    <li class="textbox1"> 100 gr kacang tanah</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 3 sendok makan saus tiram</li>
+    <li class="textbox1"> 200 ml air</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 2 sendok makan kecap inggris</li>
+    <li class="textbox1"> 3 sdm kecap manis</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 3 sendok makan madu atau gula kelapa</li>
+    <li class="textbox1"> 3 siung bawang putih</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 4 siung bawang putih (haluskan)</li>
+    <li class="textbox1"> 2 siung bawang merah</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 2 cm jahe (haluskan)</li>
+    <li class="textbox1"> 3 buah kemiri yg di sangrai</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> Garam secukupnya</li>
+    <li class="textbox1"> 10 buah cabe rawit</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> Merica secukupnya</li>
+    <li class="textbox1"> 1/2 sdt garam</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> Air jeruk nipis atau air lemon (1-2 sendok makan)</li>
+    <li class="textbox1"> 1 sdm gula merah</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> Daun bawang atau daun ketumbar (untuk taburan, opsional)</li>
+    <li class="textbox1"> Secukupnya bawang merah mentah Irisan</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> Tusuk sate (rendam dalam air agar tidak gosong saat dipanggang)</li>
+    <li class="textbox1"> Secukupnya cabe rawit Irisan</li>
   </ul>
   
 </div>
@@ -108,47 +109,42 @@
 <div>
   <p class="text1"> Alat :</p>
   <ul>
-    <li class="paragraf1"> Mangkuk besar untuk merendam ayam </li>
-    <li class="paragraf1"> Wajan / Penggorengan </li>
-    <li class="paragraf1"> Peralatan dapur standar seperti spatula, sendok, dan pisau </li>
+    <li class="paragraf1"> Panggangan atau grill </li>
+    <li class="paragraf1"> Tusukan sate </li>
+    <li class="paragraf1"> Blender atau penggiling </li>
+    <li class="paragraf1"> Panci atau wajan </li>
+    <li class="paragraf1"> Pisau dapur </li>
+    <li class="paragraf1"> Piring atau mangkuk </li>
+    <li class="paragraf1"> Sendok atau spatula </li>
+    <li class="paragraf1"> Cobek dan ulekan </li>
   </ul>
 </div>
 
 <div>
   <p class="text2"> Langkah - Langkah :</p>
   <ul class="listangka">
-    <li class="judul1"> Persiapkan Ayam :</li>
-      <ul>
-        <li class="jadul1"> Bersihkan ayam dan potong sesuai selera. Lumuri ayam dengan air jeruk nipis atau air lemon, lalu cuci bersih. </li>
-      </ul>
-    <li class="judul2"> Campur Bumbu Marinasi :</li>
-    <ul>
-      <li class="jadul2"> Dalam mangkuk besar, campurkan kecap manis, saus tiram, kecap inggris, madu atau gula kelapa, bawang putih, jahe, garam, dan merica. Aduk rata. </li>
-    </ul>
-    <li class="judul3"> Marinasi Ayam :</li>
-    <ul>
-      <li class="jadul3"> Rendam potongan ayam dalam campuran bumbu marinasi. Pastikan semua bagian ayam terbalut rata oleh marinasi. Diamkan selama minimal 1-2 jam di dalam lemari es untuk memberikan waktu agar bumbu meresap. </li>
-    </ul>
-    <li class="judul4"> Tusuk Ayam :</li>
-    <ul>
-      <li class="jadul4"> Ambil tusuk sate yang telah direndam, tusukkan potongan ayam pada tusuk sate. Sisihkan. </li>
-    </ul>
-    <li class="judul5"> Panggang Ayam :</li>
-    <ul>
-      <li class="jadul5"> Panaskan wajan atau panggangan dengan api sedang. Panggang ayam sambil diolesi sisa marinasi untuk memberikan rasa yang lebih kaya. Panggang hingga ayam matang dan kecoklatan di kedua sisi. </li>
-    </ul>
-    <li class="judul6"> Sajikan :</li>
-    <ul>
-      <li class="jadul6"> Angkat ayam bakar kecap manis dari wajan atau panggangan. Letakkan di atas piring saji. Taburi dengan potongan daun bawang atau daun ketumbar sebagai hiasan (opsional). </li>
-    </ul>
-    <li class="judul7"> Sajikan dengan Nasi atau Lainnya :</li>
-    <ul>
-      <li class="jadul7"> Panaskan wajan atau panggangan dengan api sedang. Panggang ayam sambil diolesi sisa marinasi untuk memberikan rasa yang lebih kaya. Panggang hingga ayam matang dan kecoklatan di kedua sisi. </li>
-    </ul>
+    <li class="judul1"> Bersihkan dan potong dadu daging ayam... Lalu lumuri dengan garam sebanyak 1 sdt dan perasan jeruk nipis... 
+        Diam kan sebentar biar meresap.</li>
+    <li class="judul2"> 
+        Sangrai kacang tanah sampai matang
+      </li>
+    <li class="judul3"> Uleg/blender kacang sampai halus dan berikan gula merah sebanyak 1 sdm.</li>
+    <li class="judul4"> Uleg bumbu halus, sama daun jeruknya,</li>
+    <li class="judul5"> Panaskan minyak secukupnya, tumis bumbu halus.</li>
+    <li class="judul6"> Setelah itu masukan air. Masak sampai mendidih</li>
+    <li class="judul7"> Setelah mendidih masukkan kacang yang telah di uleg tadi</li>
+    <li class="judul8"> Masukan 3 sdm kecap, lalu masak sampai kental dg api kecil. Koreksi rasa... Lalu angkat.</li>
+    <li class="judul9"> Ambil 3 sdm saus kacang tadi masukan kedalam mangkok. Tambahkan 1 sdm kecap dan 1 sdm air. Aduk sampai rata</li>
+    <li class="judul10"> Tusuk daging ke lidi khusus utk sate</li>
+    <li class="judul11"> Setelah itu celupkan bumbu kacang yang 3sdm td ke daging yg telah d tusuk. 
+      Diamkan didalam kulkas agar bumbu meresap kurang lebih 1 jam.</li>
+    <li class="judul12"> Panggang sate sampai mateng.</li>
+    <li class="judul13"> Sate siap untuk dinikmati</li>
+
     <p style="margin-inline-start: 1%;"> Selamat memasak! 😊😊</p>
+      
   </ul>
 </div>
-
 
 <style>
     .resepayam {
@@ -278,10 +274,28 @@
       margin-inline-start: 3%;
     }
 
-    .jadul7  {
-      margin-inline-start: 5%;
-      list-style-type: disc;
-      margin-bottom: 6rem;
+    .judul8  {
+      margin-inline-start: 3%;
+    }
+
+    .judul9 {
+      margin-inline-start: 3%;
+    }
+
+    .judul10 {
+      margin-inline-start: 3%;
+    }
+
+    .judul11 {
+      margin-inline-start: 3%;
+    }
+
+    .judul12 {
+      margin-inline-start: 3%;
+    }
+
+    .judul13  {
+      margin-inline-start: 3%;
     }
 </style>
 

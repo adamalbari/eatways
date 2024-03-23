@@ -13,142 +13,92 @@
 </style>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="images/ayambakar.jpg" alt="pindang" style="width: 40%; border-radius: 2%; margin-top: 2%;" />
+    <img src="images/pindang.jpg" alt="pindang" style="width: 40%; border-radius: 2%; margin-top: 2%;" />
 </div>
+
 
 <div class="resepayam">
-    <h1>Resep Ayam Bakar Bumbu Kecap Manis</h1>
-    <p>Bahan :</p>
+    <h1>Resep Ikan Pindang Bumbu Geprek</h1>
+    <p>Alat & Bahan :</p>
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 1 kg ayam (potong sesuai selera, bisa pilih bagian sayap, paha, atau dada)</li>
+    <li class="textbox1"> 3 ikan pindang ukuran sedang</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 5 sendok makan kecap manis</li>
+    <li class="textbox1"> 1 sdm tepung beras</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 3 sendok makan saus tiram</li>
+    <li class="textbox1"> 7 buah cabe rawit merah</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 2 sendok makan kecap inggris</li>
+    <li class="textbox1"> 1 siung bawang putih</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 3 sendok makan madu atau gula kelapa</li>
+    <li class="textbox1"> Secukupnya Minyak goreng</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 4 siung bawang putih (haluskan)</li>
+    <li class="textbox1"> Secukupnya garam dan penyedap rasa / bubuk kaldu</li>
   </ul>
   
-</div>
-
-<div class="box">
-  <ul> 
-    <li class="textbox1"> 2 cm jahe (haluskan)</li>
-  </ul>
-  
-</div>
-
-<div class="box">
-  <ul> 
-    <li class="textbox1"> Garam secukupnya</li>
-  </ul>
-  
-</div>
-
-<div class="box">
-  <ul> 
-    <li class="textbox1"> Merica secukupnya</li>
-  </ul>
-  
-</div>
-
-<div class="box">
-  <ul> 
-    <li class="textbox1"> Air jeruk nipis atau air lemon (1-2 sendok makan)</li>
-  </ul>
-  
-</div>
-
-<div class="box">
-  <ul> 
-    <li class="textbox1"> Daun bawang atau daun ketumbar (untuk taburan, opsional)</li>
-  </ul>
-  
-</div>
-
-<div class="box">
-  <ul> 
-    <li class="textbox1"> Tusuk sate (rendam dalam air agar tidak gosong saat dipanggang)</li>
-  </ul>
-  
-</div>
-
-<div>
-  <p class="text1"> Alat :</p>
-  <ul>
-    <li class="paragraf1"> Mangkuk besar untuk merendam ayam </li>
-    <li class="paragraf1"> Wajan / Penggorengan </li>
-    <li class="paragraf1"> Peralatan dapur standar seperti spatula, sendok, dan pisau </li>
-  </ul>
 </div>
 
 <div>
   <p class="text2"> Langkah - Langkah :</p>
   <ul class="listangka">
-    <li class="judul1"> Persiapkan Ayam :</li>
+    <li class="judul1"> Buang kepala dan perut ikan, cuci bersih :</li>
       <ul>
-        <li class="jadul1"> Bersihkan ayam dan potong sesuai selera. Lumuri ayam dengan air jeruk nipis atau air lemon, lalu cuci bersih. </li>
+        <li class="jadul1"> Langkah ini bertujuan untuk membersihkan ikan dari bagian-bagian yang tidak diinginkan seperti kepala dan perut, 
+            serta membersihkan ikan secara menyeluruh untuk menghilangkan kotoran dan bau tidak sedap. </li>
       </ul>
-    <li class="judul2"> Campur Bumbu Marinasi :</li>
+    <li class="judul2"> Gulingkan ikan pada tepung beras kering :</li>
     <ul>
-      <li class="jadul2"> Dalam mangkuk besar, campurkan kecap manis, saus tiram, kecap inggris, madu atau gula kelapa, bawang putih, jahe, garam, dan merica. Aduk rata. </li>
+      <li class="jadul2"> Tepung beras kering digunakan untuk memberikan lapisan luar pada ikan yang akan membantu ikan menjadi renyah saat digoreng.
+        Proses menggulingkan ikan pada tepung beras juga membantu tepung menempel merata pada permukaan ikan. </li>
     </ul>
-    <li class="judul3"> Marinasi Ayam :</li>
+    <li class="judul3"> Goreng ikan sampai kecoklatan :</li>
     <ul>
-      <li class="jadul3"> Rendam potongan ayam dalam campuran bumbu marinasi. Pastikan semua bagian ayam terbalut rata oleh marinasi. Diamkan selama minimal 1-2 jam di dalam lemari es untuk memberikan waktu agar bumbu meresap. </li>
+      <li class="jadul3"> Ikan digoreng dalam minyak panas hingga kedua sisi ikan menjadi kecoklatan. 
+        Proses penggorengan ini bertujuan untuk memasak ikan hingga matang dan memberikan tekstur yang renyah pada lapisan tepungnya. </li>
     </ul>
-    <li class="judul4"> Tusuk Ayam :</li>
+    <li class="judul4"> Goreng cabe dan bawang putih 1 menit di minyak bekas goreng ikan. <br> Haluskan/uleg, tambahkan garam dan penyedap rasa/ bubuk kaldu :</br></li>
     <ul>
-      <li class="jadul4"> Ambil tusuk sate yang telah direndam, tusukkan potongan ayam pada tusuk sate. Sisihkan. </li>
+      <li class="jadul4"> Cabe dan bawang putih digoreng sebentar dalam minyak bekas menggoreng ikan untuk mengeluarkan aroma dan rasa yang khas. 
+        Setelah itu, cabe dan bawang putih dihaluskan atau diuleg bersama dengan tambahan garam dan penyedap rasa/bubuk kaldu untuk membuat sambal. </li>
     </ul>
     <li class="judul5"> Panggang Ayam :</li>
     <ul>
       <li class="jadul5"> Panaskan wajan atau panggangan dengan api sedang. Panggang ayam sambil diolesi sisa marinasi untuk memberikan rasa yang lebih kaya. Panggang hingga ayam matang dan kecoklatan di kedua sisi. </li>
     </ul>
-    <li class="judul6"> Sajikan :</li>
+    <li class="judul6"> Buang duri tengah pada ikan, kemudian masukkan ke cobek dan geprek bersama sambal. <br> Dan geprek pun siap dihidangkan bersama nasi putih hangat.<br></li>
     <ul>
-      <li class="jadul6"> Angkat ayam bakar kecap manis dari wajan atau panggangan. Letakkan di atas piring saji. Taburi dengan potongan daun bawang atau daun ketumbar sebagai hiasan (opsional). </li>
+      <li class="jadul6"> Setelah ikan digoreng, duri tengahnya dibuang. Kemudian, ikan dimasukkan ke cobek dan dihancurkan bersama dengan sambal yang telah disiapkan sebelumnya. Setelah itu, geprek pun siap disajikan bersama dengan nasi putih hangat.</li>
     </ul>
-    <li class="judul7"> Sajikan dengan Nasi atau Lainnya :</li>
-    <ul>
-      <li class="jadul7"> Panaskan wajan atau panggangan dengan api sedang. Panggang ayam sambil diolesi sisa marinasi untuk memberikan rasa yang lebih kaya. Panggang hingga ayam matang dan kecoklatan di kedua sisi. </li>
-    </ul>
+
     <p style="margin-inline-start: 1%;"> Selamat memasak! 😊😊</p>
   </ul>
 </div>
-
 
 <style>
     .resepayam {

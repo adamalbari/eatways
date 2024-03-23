@@ -16,26 +16,26 @@
 
 <div style="margin-top:5%; margin-inline-start: 2%; font-size:25px; margin-bottom: 1%;">
     <head>
-        Tips Meningkatkan Rasa Makanan buat dapetin hati <br>Almira</br>
+      Kuliner asal Meksiko! Taco dengan daging cincang <br>asap!</br>
     </head>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="images/ayamgede.png" alt="ayam" style="width: 44%; height: 50%; margin-inline-start: 2%; margin-bottom: 12%">
+  <img src="images/taco.png" alt="ayam" style="width: 44%; height: 50%; margin-inline-start: 2%; margin-bottom: 12%">
   <div style="margin-left: 2%;">
-      <p style="margin-top: -3%; font-size: 25px;">Lihat Tips Lainnya</p>
+      <p style="margin-top: -8%; font-size: 25px;">Lihat Tips Lainnya</p>
       <ul class="tips">
       <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;">
-        Tips memilih bahan makanan mu yang segar agar masakan kamu fresh!
+        Dimsum khas Tiongkok! Yakin gak mau nyoba?
       </li>
       <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        Tips Organisasi Dapur agar Lebih Rapi dan Nyaman di lihat! 
+        Makanan untuk anak anak Wibu, khas Jepang nih! Gyoza!
       </li>
       <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        Tips membuat rasa makanan kamu semakin enak!
+        Nonton drakor sambil makan kulineran khas Korea! Kimchi!
       </li>
       <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        7 Rekomendasi Makanan dan Minuman untuk Valentine
+        Cobain kuliner khas Italia! Pizza dengan keju mozarella
       </li>
       </ul>
       <p style="margin-top: 5%; font-size: 25px;">

@@ -13,142 +13,138 @@
 </style>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="images/ayambakar.jpg" alt="pindang" style="width: 40%; border-radius: 2%; margin-top: 2%;" />
+    <img src="images/nasgor.jpg" alt="nasgor" style="width: 40%; border-radius: 2%; margin-top: 2%;" />
 </div>
+
 
 <div class="resepayam">
-    <h1>Resep Ayam Bakar Bumbu Kecap Manis</h1>
-    <p>Bahan :</p>
+    <h1>Resep Nasi Goreng Telur Mata Sapi</h1>
+    <p>Alat & Bahan :</p>
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 1 kg ayam (potong sesuai selera, bisa pilih bagian sayap, paha, atau dada)</li>
+    <li class="textbox1"> 2 porsi Nasi putih</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 5 sendok makan kecap manis</li>
+    <li class="textbox1"> 3 butir telur ayam</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 3 sendok makan saus tiram</li>
+    <li class="textbox1"> 3 lbr daun bawang</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 2 sendok makan kecap inggris</li>
+    <li class="textbox1"> Secukupnya kecap</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 3 sendok makan madu atau gula kelapa</li>
+    <li class="textbox1"> Secukupnya merica</li>
   </ul>
   
 </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> 4 siung bawang putih (haluskan)</li>
+    <li class="textbox1"> Secukupnya garam</li>
   </ul>
-  
 </div>
 
 <div class="box">
-  <ul> 
-    <li class="textbox1"> 2 cm jahe (haluskan)</li>
-  </ul>
-  
-</div>
+    <ul> 
+      <li class="textbox1"> Secukupnya penyedap rasa</li>
+    </ul>
+  </div>
 
 <div class="box">
   <ul> 
-    <li class="textbox1"> Garam secukupnya</li>
+    <li class="textbox1"> Bawang goreng</li>
   </ul>
-  
 </div>
 
 <div class="box">
-  <ul> 
-    <li class="textbox1"> Merica secukupnya</li>
-  </ul>
-  
+    <ul> 
+      <li class="textbox1"> Minyak Goreng</li>
+    </ul>
+  </div>
+
+<div class="box">
+    <ul> 
+      <li class="textbox1"> 3 siung bawang merah</li>
+    </ul>
 </div>
 
 <div class="box">
-  <ul> 
-    <li class="textbox1"> Air jeruk nipis atau air lemon (1-2 sendok makan)</li>
-  </ul>
-  
+    <ul> 
+      <li class="textbox1"> 2 siung bawang putih</li>
+    </ul>
 </div>
 
 <div class="box">
-  <ul> 
-    <li class="textbox1"> Daun bawang atau daun ketumbar (untuk taburan, opsional)</li>
-  </ul>
-  
+    <ul> 
+      <li class="textbox1">4 bh cabe merah keriting</li>
+    </ul>
 </div>
 
 <div class="box">
-  <ul> 
-    <li class="textbox1"> Tusuk sate (rendam dalam air agar tidak gosong saat dipanggang)</li>
-  </ul>
-  
+    <ul> 
+      <li class="textbox1">7 bh cabe rawit (sesuai selera)</li>
+    </ul>
 </div>
 
-<div>
-  <p class="text1"> Alat :</p>
-  <ul>
-    <li class="paragraf1"> Mangkuk besar untuk merendam ayam </li>
-    <li class="paragraf1"> Wajan / Penggorengan </li>
-    <li class="paragraf1"> Peralatan dapur standar seperti spatula, sendok, dan pisau </li>
-  </ul>
-</div>
 
 <div>
   <p class="text2"> Langkah - Langkah :</p>
   <ul class="listangka">
-    <li class="judul1"> Persiapkan Ayam :</li>
+    <li class="judul1"> Goreng 2 butir telur ayam kemudian tiriskan :</li>
       <ul>
-        <li class="jadul1"> Bersihkan ayam dan potong sesuai selera. Lumuri ayam dengan air jeruk nipis atau air lemon, lalu cuci bersih. </li>
+        <li class="jadul1"> Langkah ini dilakukan untuk memasak telur hingga matang. 
+            Telur yang telah digoreng akan digunakan sebagai tambahan pada nasi goreng. 
+            Penirisan telur bertujuan untuk menghilangkan kelebihan minyak agar nasi goreng tidak terlalu berminyak. </li>
       </ul>
-    <li class="judul2"> Campur Bumbu Marinasi :</li>
+    <li class="judul2"> Goreng 1 butir telur (orak arik) untuk campuran nasi goreng. Tiriskan :</li>
     <ul>
-      <li class="jadul2"> Dalam mangkuk besar, campurkan kecap manis, saus tiram, kecap inggris, madu atau gula kelapa, bawang putih, jahe, garam, dan merica. Aduk rata. </li>
+      <li class="jadul2"> Telur yang digoreng dan diorak-arik akan dicampurkan ke dalam nasi goreng untuk memberikan 
+        rasa dan tekstur yang lezat. Orak-arik telur memberikan variasi tekstur yang menarik dalam nasi goreng. </li>
     </ul>
-    <li class="judul3"> Marinasi Ayam :</li>
+    <li class="judul3"> Tumis bumbu halus sampai harum. Masukkan daun bawang. Aduk. Lalu tambahkan garam, kecap, 
+        penyedap rasa, merica secukupnya : </li>
     <ul>
-      <li class="jadul3"> Rendam potongan ayam dalam campuran bumbu marinasi. Pastikan semua bagian ayam terbalut rata oleh marinasi. Diamkan selama minimal 1-2 jam di dalam lemari es untuk memberikan waktu agar bumbu meresap. </li>
+      <li class="jadul3"> Langkah ini merupakan awal proses pembuatan bumbu untuk nasi goreng. Bumbu halus yang umumnya 
+        terdiri dari bawang putih, bawang merah, cabai, dan bumbu-bumbu lainnya ditumis hingga harum untuk memberikan 
+        aroma dan rasa yang khas. Kemudian, ditambahkan daun bawang dan bumbu-bumbu lainnya seperti garam, kecap, penyedap rasa, 
+        dan merica untuk memberikan cita rasa yang lezat pada nasi goreng.</li>
     </ul>
-    <li class="judul4"> Tusuk Ayam :</li>
+    <li class="judul4"> Masukkan nasi putih. Aduk rata. Campur dengan telur orak-arik. Masak sampai tercampur rata semuanya. Koreksi rasa|:</li>
     <ul>
-      <li class="jadul4"> Ambil tusuk sate yang telah direndam, tusukkan potongan ayam pada tusuk sate. Sisihkan. </li>
+      <li class="jadul4"> Nasi putih dimasukkan ke dalam tumisan bumbu dan dicampur rata dengan bumbu tersebut. Selanjutnya, 
+        telur orak-arik yang telah disiapkan sebelumnya juga dimasukkan dan diaduk hingga tercampur merata dengan nasi. 
+        Proses ini bertujuan untuk menggabungkan semua komponen dengan merata sehingga tercipta rasa yang seimbang. 
+        Setelah itu, rasa nasi goreng dapat diperiksa dan disesuaikan dengan selera masing-masing. </li>
     </ul>
-    <li class="judul5"> Panggang Ayam :</li>
+    <li class="judul5"> Taburi bawang goreng agar lebih nikmat. Siap untuk dihidangkan.</li>
     <ul>
-      <li class="jadul5"> Panaskan wajan atau panggangan dengan api sedang. Panggang ayam sambil diolesi sisa marinasi untuk memberikan rasa yang lebih kaya. Panggang hingga ayam matang dan kecoklatan di kedua sisi. </li>
+      <li class="jadul5"> Sebagai tambahan, taburi nasi goreng dengan bawang goreng untuk memberikan tekstur renyah dan rasa yang gurih. 
+        Setelah itu, nasi goreng siap untuk disajikan dan dinikmati. Jangan lupa untuk berdoa sebelum makan sebagai ungkapan rasa syukur 
+        atas hidangan yang disajikan. </li>
     </ul>
-    <li class="judul6"> Sajikan :</li>
-    <ul>
-      <li class="jadul6"> Angkat ayam bakar kecap manis dari wajan atau panggangan. Letakkan di atas piring saji. Taburi dengan potongan daun bawang atau daun ketumbar sebagai hiasan (opsional). </li>
-    </ul>
-    <li class="judul7"> Sajikan dengan Nasi atau Lainnya :</li>
-    <ul>
-      <li class="jadul7"> Panaskan wajan atau panggangan dengan api sedang. Panggang ayam sambil diolesi sisa marinasi untuk memberikan rasa yang lebih kaya. Panggang hingga ayam matang dan kecoklatan di kedua sisi. </li>
-    </ul>
+
     <p style="margin-inline-start: 1%;"> Selamat memasak! 😊😊</p>
   </ul>
 </div>
-
 
 <style>
     .resepayam {

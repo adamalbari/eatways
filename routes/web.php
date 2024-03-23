@@ -13,6 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::group(['middleware' => 'RequireLogin'], function(){
+    Route::get('/bagikan-resep', 'RecipeController@index')->name('bagikan-resep');
+    Route::get('/belanja', 'RecipeController@index')->name('belanja.index');
+});
+
 Route::get('/login', function () {
     return view('login', ['pageTitle' => 'Login']);
 });
@@ -45,3 +50,23 @@ Route::get('/kuliner2', function () {
     return view('kuliner2', ['pageTitle' => 'Kuliner 2']);
 });
 Route::get('/signup', 'SignupController@create')->name('signup.create');
+
+Route::get('/belanja', function () {
+    return view('belanja', ['pageTitle' => 'belanja']);
+});
+
+Route::get('/pindang', function () {
+    return view('pindang', ['pageTitle' => 'pindang']);
+});
+
+Route::get('/sateayam', function () {
+    return view('sateayam', ['pageTitle' => 'sateayam']);
+});
+
+Route::get('/nasgor', function () {
+    return view('nasgor', ['pageTitle' => 'nasgor']);
+});
+
+Route::get('/miayam', function () {
+    return view('miayam', ['pageTitle' => 'miayam']);
+});
