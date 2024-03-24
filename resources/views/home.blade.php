@@ -12,27 +12,24 @@
   }
 </style>
 
-<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="images/image3(1).png" class="d-block w-100" alt="img3(1)">
-    </div>
-    <div class="carousel-item">
-      <img src="images/image3.png" class="d-block w-100" alt="img3">
-    </div>
-    <div class="carousel-item">
-      <img src="images/image4.png" class="d-block w-100" alt="img4">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
+<div class="centered-image">
+  <img src="images/carouselcelek.png" alt="carousel" width="1000px" height="">
 </div>
+
+<style>
+  .centered-image {
+  display: flex;
+  justify-content: center; /* Mengatur posisi horizontal ke tengah */
+  align-items: center; /* Mengatur posisi vertikal ke tengah */
+  margin-top: 2%;
+}
+
+.centered-image img {
+  max-width: 100%; /* Maksimum lebar gambar adalah lebar container */
+  max-height: 100%; /* Maksimum tinggi gambar adalah tinggi container */
+}
+
+</style>
 
 <h1>
   Rekomendasi Menu Hari Ini

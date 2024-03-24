@@ -12,43 +12,22 @@
   }
 </style>
 
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="https://via.placeholder.com/800x400?text=Slide+1" class="d-block w-100" alt="Slide 1">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Caption Slide 1</h5>
-          <p>Ini adalah keterangan untuk slide pertama.</p>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="https://via.placeholder.com/800x400?text=Slide+2" class="d-block w-100" alt="Slide 2">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Caption Slide 2</h5>
-          <p>Ini adalah keterangan untuk slide kedua.</p>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="https://via.placeholder.com/800x400?text=Slide+3" class="d-block w-100" alt="Slide 3">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Caption Slide 3</h5>
-          <p>Ini adalah keterangan untuk slide ketiga.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <!-- jQuery, Popper.js, dan Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-  
-  <!-- Script untuk mengatur slide otomatis -->
-  <script>
-    $('.carousel').carousel({
-      interval: 3000 // Ubah nilai ini untuk mengatur durasi slide (dalam milidetik)
-    });
-  </script>
+<div class="centered-image">
+  <img src="images/carouselcelek2.png" alt="carousel" width="1000px" height="">
+</div>
+
+<style>
+  .centered-image {
+  display: flex;
+  justify-content: center; /* Mengatur posisi horizontal ke tengah */
+  align-items: center; /* Mengatur posisi vertikal ke tengah */
+  margin-top: 2%;
+}
+
+.centered-image img {
+  max-width: 100%; /* Maksimum lebar gambar adalah lebar container */
+  max-height: 100%; /* Maksimum tinggi gambar adalah tinggi container */
+}
 
 <h1>Kuliner dari Eatways !</h1>
 <p class="tips-eatways"> Yuk cek kulineran dari dalam dan luar negeri, <br>siapa tau ada yang suka masakan western dan lain lain!</p>
