@@ -21,23 +21,15 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="images/taco.png" alt="ayam" style="width: 44%; height: 50%; margin-inline-start: 2%; margin-bottom: 12%">
+  <img src="images/taco.png" alt="ayam" style="width: 2000px; height: 400px; margin-inline-start: 2%; margin-bottom: 20%">
   <div style="margin-left: 2%;">
-      <p style="margin-top: -8%; font-size: 25px;">Lihat Tips Lainnya</p>
-      <ul class="tips">
-      <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;">
-        Dimsum khas Tiongkok! Yakin gak mau nyoba?
-      </li>
-      <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        Makanan untuk anak anak Wibu, khas Jepang nih! Gyoza!
-      </li>
-      <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        Nonton drakor sambil makan kulineran khas Korea! Kimchi!
-      </li>
-      <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        Cobain kuliner khas Italia! Pizza dengan keju mozarella
-      </li>
-      </ul>
+      <p style="margin-top: -23%; font-size: 25px;">Lihat Tips Lainnya</p>
+      <div>
+        <img src="images/tipstaco1.png" alt="tips1" width="520px" height="auto">
+        <img style="margin-top: 2%;" src="images/tipstaco2.png" alt="tips2" width="520px" height="auto">
+        <img style="margin-top: 2%;" src="images/tipstaco3.png" alt="tips3" width="520px" height="auto">
+        <img style="margin-top: 2%;" src="images/tipstaco4.png" alt="tips4" width="520px" height="auto">
+      </div>
       <p style="margin-top: 5%; font-size: 25px;">
         Share
       </p>
@@ -73,9 +65,9 @@
 </style>
 
 <div>
-  <img style="margin-inline-start: 2%" src="images/eatways2.png" alt="email" width="200" height="70">
+  <img style="margin-inline-start: 2%; margin-top: -6%;" src="images/eatways2.png" alt="email" width="200" height="70">
 
-<div style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
+<div style="margin-inline-start: 2.5%; margin-top: 1%; text-align: justify; margin-right:2%;">
   <p>
   Menggali Kelezatan Meksiko, Sejarah yang Terkandung dalam Setiap Gigitan Taco
   </p>
@@ -166,7 +158,7 @@ Cek kulineran yang lain yuk!
 
 <div class="footer">
   <img class="imagefooter1" src="images/footer1.png" alt="imagefooter" width="100%" height="100%">
-  <button class ="button-footer"> Kunjungi Toko EatWays! </button>
+  <button class ="button-footer"onclick="window.location.href='{{ url('/belanja') }}'"> Kunjungi Toko EatWays! </button>
 </div>
 
 <style>

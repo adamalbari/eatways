@@ -81,7 +81,7 @@
 </style>
 
 <div class="gallery">
-  <a target="_blank" href="image6.png">
+  <a target="_blank" href='{{ url('/pizza') }}'>
     <img src="images/image6.png" alt="asahpisau" width="600" height="400">
   </a>
   <div class="desc">Tips mengasah pisau agar awet dan tajam, Wajib paham!</div>
@@ -137,13 +137,14 @@ div.gallery {
 }
 </style>
 
-<div style="text-align: center; margin-bottom: 3%">
-  <button type="button" style="background-color:#FF910F; color: white; border: none; border-radius: 10px; width: 450px; height: 35px; margin-top: 30px;">LIHAT TIPS LAINNYA</button>
-</div>
+{{-- <div style="text-align: center; margin-bottom: 3%">
+  <button type="button" style="background-color:#FF910F; color: white; border: none; border-radius: 10px; width: 450px; height: 35px; margin-top: 30px;" 
+  onclick="window.location.href='{{ url('/tips') }}'">LIHAT TIPS LAINNYA</button>
+</div> --}}
 
 <div class="footer">
   <img class="imagefooter1" src="images/footer1.png" alt="imagefooter" width="100%" height="100%">
-  <button class ="button-footer"> Kunjungi Toko EatWays! </button>
+  <button class ="button-footer" onclick="window.location.href='{{ url('/belanja') }}'"> Kunjungi Toko EatWays! </button>
 </div>
 
 <style>

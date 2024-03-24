@@ -16,12 +16,12 @@
 
 <div style="margin-top:5%; margin-inline-start: 2%; font-size:25px; margin-bottom: 1%;">
     <head>
-        Tips Organisasi dapur agar lebih rapi dan nyaman <br>untuk dilihat</br>
+        Tips mengasah pisau agar tajam dan awet, <br>wajib paham!!</br>
     </head>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="images/dapur.png" alt="ayam" style="width: 44%; height: 50%; margin-inline-start: 2%; margin-bottom: 12%">
+  <img src="images/pisau.png" alt="pisau" style="width: 44%; height: 50%; margin-inline-start: 2%; margin-bottom: 12%">
   <div style="margin-left: 2%;">
       <p style="margin-top: -3%; font-size: 25px;">Lihat Tips Lainnya</p>
       <ul class="tips">
@@ -77,61 +77,75 @@
 </div>
 
 <div class="paragraph">
+<p style="margin-inline-start: 2.5%; margin-top: 2%; text-align: justify; margin-right:2%;">
+    Mengasah pisau adalah keterampilan penting dalam dunia memasak. Dengan pisau yang tajam, Anda tidak hanya akan memperoleh 
+    hasil potongan yang rapi, tetapi juga menjaga keamanan dan efisiensi dalam dapur. Berikut adalah tips-tips 
+    penting yang wajib dipahami untuk mengasah pisau Anda dengan baik :
+</p>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Atur Penyimpanan dengan Pintar :
+    Gunakan Batu Asah yang Tepat :
     <p>
-        Sebelum memulai, pastikan Anda memiliki penyimpanan yang cukup untuk semua peralatan masak dan bahan makanan. 
-        Gunakan rak tambahan, tempat penyimpanan gantung, dan wadah transparan untuk melihat dengan jelas apa yang Anda miliki. 
-        Susun peralatan masak berdasarkan frekuensi penggunaan, dengan barang-barang yang paling sering digunakan berada di tempat 
-        yang mudah dijangkau.
+        Pilihlah batu asah yang sesuai dengan jenis pisau Anda. Batu asah dengan grit kasar digunakan untuk mengasah 
+        pisau yang tumpul, sementara grit halus digunakan untuk mengasah dan mengasah rapi pisau yang sudah cukup tajam.
     </p>
   </li>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Rapikan Kabel-Kabel Listrik :
+    Pelajari Sudut yang Tepat :
     <p>
-        Salah satu penyebab kekacauan di dapur adalah kabel-kabel listrik yang berserakan di sekitar countertop. 
-        Gunakan klem kabel atau kawat pengikat untuk merapikan kabel-kabel dan menghindari kemungkinan kecelakaan.
+        Pelajari sudut yang tepat untuk mengasah pisau Anda. Sudut optimal bervariasi tergantung pada jenis pisau yang Anda miliki. 
+        Pisau dapur umumnya diasah dengan sudut sekitar 15-20 derajat.
     </p>
   </li>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Gunakan Label untuk Penyimpanan Bahan Makanan :
+    Lakukan Gerakan yang Konsisten :
     <p>
-        Agar lebih mudah menemukan bahan makanan di dapur, gunakan label untuk mengidentifikasi isinya. 
-        Anda dapat menggunakan label berwarna-warni atau label yang dapat digambar, tergantung pada preferensi dan gaya Anda.
+        Lakukan gerakan yang konsisten saat mengasah pisau. Gerakan maju-mundur secara teratur dengan tekanan yang merata 
+        akan membantu menciptakan tajam yang konsisten di seluruh mata pisau.
     </p>
   </li>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Pilih Warna yang Serasi :
+    Jaga Konsistensi Tekanan :
     <p>
-        Warna dapat memengaruhi suasana hati dan memberikan kesan rapi atau berantakan di dapur Anda. 
-        Pilihlah warna-warna yang serasi dan menenangkan, seperti putih, biru muda, atau hijau pastel, 
-        untuk menciptakan tampilan yang rapi dan nyaman di mata.
+        Jaga konsistensi tekanan saat mengasah. Tekanan yang konsisten akan menghasilkan pengasahan yang merata dan tajam di seluruh bagian pisau.
     </p>
   </li>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Bersihkan dan Rapihkan Setelah Setiap Penggunaan :
+    Gunakan Sistem Wetstone :
     <p>
-        Terakhir, tetapkan kebiasaan untuk membersihkan dan merapikan dapur setelah setiap penggunaan. 
-        Buang sisa-sisa makanan, cuci piring, dan kembali tempatkan peralatan masak ke tempatnya masing-masing. 
-        Dengan begitu, Anda akan selalu memiliki dapur yang siap digunakan kapan pun Anda membutuhkannya.
+        Gunakan sistem wetstone (batu asah basah) untuk hasil yang lebih baik. Sistem ini memungkinkan Anda untuk menyimpan 
+        batu asah tetap basah selama proses pengasahan, menghasilkan hasil yang lebih tajam dan lebih halus.
+    </p>
+  </li>
+
+  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
+    Jaga Kebersihan Pisau :
+    <p>
+        Jaga kebersihan pisau setelah digunakan dan diasah. Bersihkan pisau dengan lembut dan keringkan dengan handuk 
+        kering untuk mencegah karat dan kerusakan akibat kelembaban.
+    </p>
+  </li>
+
+  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
+    Latihan dan Kesabaran :
+    <p>
+        Terakhir, latihanlah secara teratur dan bersabarlah. Mengasah pisau adalah keterampilan yang membutuhkan 
+        latihan dan kesabaran untuk dikuasai sepenuhnya. Jangan ragu untuk mencoba teknik yang berbeda dan mencari saran dari ahli jika diperlukan.
     </p>
   </li>
 
   <p style="margin-inline-start: 2.5%; margin-top: 4%; text-align: justify; margin-right:2%;">
-    Dengan menerapkan tips-tips sederhana ini, Anda dapat menciptakan dapur yang rapi dan nyaman di mata. 
-    Dapur yang terorganisir dengan baik bukan hanya memberikan kepraktisan dalam memasak, 
-    tetapi juga menciptakan suasana yang menyenangkan dan mengundang untuk dihabiskan waktu bersama keluarga dan teman-teman. 
-    Jadi, mari kita mulai mengatur dapur dan jelajahi kenyamanan dalam keteraturan!
-  </p>
-</div>
-  
+    Dengan memahami dan menerapkan tips-tips ini, Anda dapat mengasah pisau Anda dengan efisien dan efektif, 
+    menjaga keawetan dan keamanan pisau Anda di dapur. Selamat mengasah dan selamat memasak! 🍴✨
+</p>
 
-  <p style="margin-inline-start: 2.5%; margin-top:4%; text-align: justify; margin-right:2%;">
+</div>
+
+  <p style="margin-inline-start: 2.5%; margin-top: 3%; text-align: justify; margin-right:2%;">
     Selamat Mencoba!
   </p>
 

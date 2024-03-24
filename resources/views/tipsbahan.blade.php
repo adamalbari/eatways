@@ -16,12 +16,12 @@
 
 <div style="margin-top:5%; margin-inline-start: 2%; font-size:25px; margin-bottom: 1%;">
     <head>
-        Tips Organisasi dapur agar lebih rapi dan nyaman <br>untuk dilihat</br>
+        Tips memilih bahan makanan agar hasil makananmu <br>enak!</br>
     </head>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="images/dapur.png" alt="ayam" style="width: 44%; height: 50%; margin-inline-start: 2%; margin-bottom: 12%">
+  <img src="images/sayur.png" alt="sayur" style="width: 44%; height: 50%; margin-inline-start: 2%; margin-bottom: 12%">
   <div style="margin-left: 2%;">
       <p style="margin-top: -3%; font-size: 25px;">Lihat Tips Lainnya</p>
       <ul class="tips">
@@ -77,56 +77,78 @@
 </div>
 
 <div class="paragraph">
+    
+    <p style="margin-inline-start: 2.5%; margin-top: 4%; text-align: justify; margin-right:2%;">
+        Kunci untuk menghasilkan masakan yang lezat adalah memilih bahan makanan yang berkualitas. 
+        Berikut adalah beberapa tips penting untuk membantu Anda memilih bahan makanan yang terbaik 
+        untuk hasil masakan yang sempurna:
+    </p>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Atur Penyimpanan dengan Pintar :
+    Pilih Bahan yang Segar :
     <p>
-        Sebelum memulai, pastikan Anda memiliki penyimpanan yang cukup untuk semua peralatan masak dan bahan makanan. 
-        Gunakan rak tambahan, tempat penyimpanan gantung, dan wadah transparan untuk melihat dengan jelas apa yang Anda miliki. 
-        Susun peralatan masak berdasarkan frekuensi penggunaan, dengan barang-barang yang paling sering digunakan berada di tempat 
-        yang mudah dijangkau.
+        Pastikan untuk memilih bahan makanan yang segar, baik itu sayuran, buah-buahan, daging, 
+        atau seafood. Bahan makanan segar cenderung memiliki rasa yang lebih baik dan tekstur yang lebih baik.
     </p>
   </li>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Rapikan Kabel-Kabel Listrik :
+    Perhatikan Aroma dan Warna :
     <p>
-        Salah satu penyebab kekacauan di dapur adalah kabel-kabel listrik yang berserakan di sekitar countertop. 
-        Gunakan klem kabel atau kawat pengikat untuk merapikan kabel-kabel dan menghindari kemungkinan kecelakaan.
+        Perhatikan aroma dan warna dari bahan makanan yang Anda pilih. Sayuran dan buah-buahan yang matang dengan 
+        baik cenderung memiliki aroma yang kuat dan warna yang cerah.
     </p>
   </li>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Gunakan Label untuk Penyimpanan Bahan Makanan :
+    Periksa Kedewasaan dan Konsistensi :
     <p>
-        Agar lebih mudah menemukan bahan makanan di dapur, gunakan label untuk mengidentifikasi isinya. 
-        Anda dapat menggunakan label berwarna-warni atau label yang dapat digambar, tergantung pada preferensi dan gaya Anda.
+        Periksa kedewasaan dan konsistensi dari buah-buahan dan sayuran. Pilih buah-buahan yang matang tetapi 
+        tidak terlalu lunak, dan sayuran yang segar dan renyah.
     </p>
   </li>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Pilih Warna yang Serasi :
+    Pilih Daging yang Berwarna Merah Muda :
     <p>
-        Warna dapat memengaruhi suasana hati dan memberikan kesan rapi atau berantakan di dapur Anda. 
-        Pilihlah warna-warna yang serasi dan menenangkan, seperti putih, biru muda, atau hijau pastel, 
-        untuk menciptakan tampilan yang rapi dan nyaman di mata.
+        Pilih daging yang berwarna merah muda untuk daging sapi, domba, dan babi. Warna merah muda menandakan 
+        daging yang segar dan berlemak dengan baik.
     </p>
   </li>
 
   <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Bersihkan dan Rapihkan Setelah Setiap Penggunaan :
+    Perhatikan Kadar Lemak dan Konsistensi pada Daging :
     <p>
-        Terakhir, tetapkan kebiasaan untuk membersihkan dan merapikan dapur setelah setiap penggunaan. 
-        Buang sisa-sisa makanan, cuci piring, dan kembali tempatkan peralatan masak ke tempatnya masing-masing. 
-        Dengan begitu, Anda akan selalu memiliki dapur yang siap digunakan kapan pun Anda membutuhkannya.
+        Perhatikan kadar lemak dan konsistensi pada daging. Pilih daging yang memiliki lapisan lemak tipis dan 
+        daging yang padat untuk hasil masakan yang lebih baik.
     </p>
   </li>
 
-  <p style="margin-inline-start: 2.5%; margin-top: 4%; text-align: justify; margin-right:2%;">
-    Dengan menerapkan tips-tips sederhana ini, Anda dapat menciptakan dapur yang rapi dan nyaman di mata. 
-    Dapur yang terorganisir dengan baik bukan hanya memberikan kepraktisan dalam memasak, 
-    tetapi juga menciptakan suasana yang menyenangkan dan mengundang untuk dihabiskan waktu bersama keluarga dan teman-teman. 
-    Jadi, mari kita mulai mengatur dapur dan jelajahi kenyamanan dalam keteraturan!
+  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
+    Periksa Aroma pada Seafood :
+    <p>
+        Periksa aroma pada seafood. Seafood yang segar akan memiliki aroma laut yang segar dan tidak amis.
+    </p>
+  </li>
+
+  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
+    Perhatikan Tanggal Kadaluarsa dan Penyimpanan :
+    <p>
+        Perhatikan tanggal kadaluarsa dan kondisi penyimpanan bahan makanan. Pastikan untuk memilih bahan makanan 
+        yang masih dalam masa kedaluwarsa dan disimpan dengan benar untuk menjaga kesegaran dan keamanannya.
+    </p>
+  </li>
+
+  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
+    Periksa Kekuatan Kulit pada Telur :
+    <p>
+        Periksa kekuatan kulit pada telur. Telur yang memiliki kulit yang kuat cenderung lebih segar dan memiliki kualitas yang lebih baik.
+    </p>
+  </li>
+
+  <p style="margin-inline-start: 2.5%; margin-top: 3%; text-align: justify; margin-right:2%;">
+    Dengan memperhatikan tips-tips di atas, Anda akan dapat memilih bahan makanan yang terbaik untuk hasil masakan yang lezat 
+    dan memuaskan. Selamat berbelanja dan selamat memasak! 🍳🌟
   </p>
 </div>
   

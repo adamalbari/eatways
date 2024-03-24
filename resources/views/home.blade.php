@@ -39,19 +39,19 @@
 </h1>
 
 <div>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
+  <a href='{{ url('/pindang') }}' style="text-decoration: none;">
     <img style="margin-inline-start: 11%; margin-top: 1%;" src="images/rekmenu1.png" alt="menu1" width="220px" height="auto">
   </a>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
+  <a href='{{ url('/resep') }}' style="text-decoration: none;">
     <img style="margin-left: 15px; margin-top: 1%;" src="images/rekmenu2.png" alt="menu2" width="220px" height="auto">
   </a>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
+  <a href='{{ url('/sateayam') }}' style="text-decoration: none;">
     <img style="margin-left: 15px; margin-top: 1%;" src="images/rekmenu3.png" alt="menu3" width="220px" height="auto">
   </a>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
+  <a href='{{ url('/nasgor') }}' style="text-decoration: none;">
     <img style="margin-left: 15px; margin-top: 1%;" src="images/rekmenu4.png" alt="menu4" width="220px" height="auto">
   </a>
-  <a href="halaman_tujuan.html" style="text-decoration: none;">
+  <a href='{{ url('/miayam') }}' style="text-decoration: none;">
     <img style="margin-left: 15px; margin-top: 1%;" src="images/rekmenu5.png" alt="menu5" width="220px" height="auto">
   </a>
 </div>
@@ -87,21 +87,21 @@
 </style>
 
   <div class="gallery">
-    <a target="_blank" href="image6.png">
+    <a target="_blank" href='{{ url('/tipspisau') }}'>
       <img src="images/image6.png" alt="asahpisau" width="600" height="400">
     </a>
     <div class="desc">Tips mengasah pisau agar awet dan tajam, Wajib paham!</div>
   </div>
   
   <div class="gallery">
-    <a target="_blank" href="image6(1).png">
+    <a target="_blank" href='{{ url('/tipsdapur') }}'>
       <img src="images/image6(1).png" alt="dapurrumah" width="600" height="400">
     </a>
     <div class="desc">Tips Organisasi Dapur agar Lebih Rapi dan Nyaman di Lihat!</div>
   </div>
   
   <div class="gallery">
-    <a target="_blank" href="image6(2).png">
+    <a target="_blank" href='{{ url('/tipsbahan') }}'>
       <img src="images/image6(2).png" alt="sayuran" width="600" height="400">
     </a>
     <div class="desc">Tips Memilih Bahan Makanan agar Hasil Masakan-mu Enak!</div>
@@ -124,7 +124,7 @@
     padding: 10px 220px; 
     margin-top: 10px;
     color: white;
-    margin-inline-start: 7%;" 
+    margin-inline-start: 7%;" onclick="window.location.href='{{ url('/kuliner2') }}'"
     >Baca Selengkapnya</button>
   </div>
 </div>
@@ -155,7 +155,7 @@
     padding: 10px 220px; 
     margin-top: 10px;
     color: white;
-    margin-inline-start: 5%;" 
+    margin-inline-start: 5%;" onclick="window.location.href='{{ url('/sushi') }}'" 
     >Baca Selengkapnya</button>
   </div>
   <a target="_blank" href="sushi.png">
@@ -182,7 +182,7 @@
 
 <div class="footer">
   <img class="imagefooter1" src="images/footer1.png" alt="imagefooter" width="100%" height="100%">
-  <button class ="button-footer"> Kunjungi Toko EatWays! </button>
+  <button class ="button-footer" onclick="window.location.href='{{ url('/belanja') }}'"> Kunjungi Toko EatWays! </button>
 </div>
 
 <style>

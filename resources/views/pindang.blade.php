@@ -237,7 +237,7 @@
 
 <div class="footer">
   <img class="imagefooter1" src="images/footer1.png" alt="imagefooter" width="100%" height="100%">
-  <button class ="button-footer"> Kunjungi Toko EatWays! </button>
+  <button class ="button-footer" onclick="window.location.href='{{ url('/belanja') }}'"> Kunjungi Toko EatWays! </button>
 </div>
 
 <style>

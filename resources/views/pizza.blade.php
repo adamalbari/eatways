@@ -16,50 +16,42 @@
 
 <div style="margin-top:5%; margin-inline-start: 2%; font-size:25px; margin-bottom: 1%;">
     <head>
-        Tips Organisasi dapur agar lebih rapi dan nyaman <br>untuk dilihat</br>
+        Eksplorasi Kenikmatan Italia : <br>Pizza dengan Keju Mozzarella yang Menggoda</br>
     </head>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="images/dapur.png" alt="ayam" style="width: 44%; height: 50%; margin-inline-start: 2%; margin-bottom: 12%">
-  <div style="margin-left: 2%;">
-      <p style="margin-top: -3%; font-size: 25px;">Lihat Tips Lainnya</p>
-      <ul class="tips">
-      <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;">
-        Tips memilih bahan makanan mu yang segar agar masakan kamu fresh!
-      </li>
-      <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        Tips Organisasi Dapur agar Lebih Rapi dan Nyaman di lihat! 
-      </li>
-      <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        Tips membuat rasa makanan kamu semakin enak!
-      </li>
-      <li style="background-color: #ffffff; padding: 10px; color: black; border-radius:10px;margin-top: 6%;">
-        7 Rekomendasi Makanan dan Minuman untuk Valentine
-      </li>
-      </ul>
-      <p style="margin-top: 5%; font-size: 25px;">
-        Share
-      </p>
-      <div class="image-link">
-        <a href="url-ke-tujuan-1">
-          <img src="images/panahkirikanan.png" alt="Cinque Terre" width="70" height="90">
-        </a>
-        <a style="margin-left:2%;" href="url-ke-tujuan-2">
-          <img src="images/whatsapp.png" alt="whatsapp" width="70" height="90">
-        </a>
-        <a style="margin-left:2%;" href="url-ke-tujuan-3">
-          <img src="images/facebook.png" alt="facebook" width="70" height="90">
-        </a>
-        <a style="margin-left:2%;" href="url-ke-tujuan-4">
-          <img src="images/twitter.png" alt="twitter" width="70" height="90">
-        </a>
-        <a style="margin-left:2%;" href="url-ke-tujuan-5">
-          <img src="images/email.png" alt="email" width="70" height="90">
-        </a>
-      </div>
+    <img src="images/pizza.png" alt="ayam" style="width: 2000px; height: 400px; margin-inline-start: 2%; margin-bottom: 20%">
+    <div style="margin-left: 2%;">
+        <p style="margin-top: -23%; font-size: 25px;">Lihat Tips Lainnya</p>
+        <div>
+          <img src="images/tipstaco1.png" alt="tips1" width="520px" height="auto">
+          <img style="margin-top: 2%;" src="images/tipstaco2.png" alt="tips2" width="520px" height="auto">
+          <img style="margin-top: 2%;" src="images/tipstaco3.png" alt="tips3" width="520px" height="auto">
+          <img style="margin-top: 2%;" src="images/tipstaco4.png" alt="tips4" width="520px" height="auto">
+        </div>
+        <p style="margin-top: 5%; font-size: 25px;">
+          Share
+        </p>
+        <div class="image-link">
+          <a href="url-ke-tujuan-1">
+            <img src="images/panahkirikanan.png" alt="Cinque Terre" width="70" height="90">
+          </a>
+          <a style="margin-left:2%;" href="url-ke-tujuan-2">
+            <img src="images/whatsapp.png" alt="whatsapp" width="70" height="90">
+          </a>
+          <a style="margin-left:2%;" href="url-ke-tujuan-3">
+            <img src="images/facebook.png" alt="facebook" width="70" height="90">
+          </a>
+          <a style="margin-left:2%;" href="url-ke-tujuan-4">
+            <img src="images/twitter.png" alt="twitter" width="70" height="90">
+          </a>
+          <a style="margin-left:2%;" href="url-ke-tujuan-5">
+            <img src="images/email.png" alt="email" width="70" height="90">
+          </a>
+        </div>
+    </div>
   </div>
-</div>
 
 <style>
   /* Membuat tautan tidak memiliki garis bawah */
@@ -73,78 +65,99 @@
 </style>
 
 <div>
-  <img style="margin-inline-start: 2%" src="images/eatways2.png" alt="email" width="200" height="70">
-</div>
-
-<div class="paragraph">
-
-  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Atur Penyimpanan dengan Pintar :
-    <p>
-        Sebelum memulai, pastikan Anda memiliki penyimpanan yang cukup untuk semua peralatan masak dan bahan makanan. 
-        Gunakan rak tambahan, tempat penyimpanan gantung, dan wadah transparan untuk melihat dengan jelas apa yang Anda miliki. 
-        Susun peralatan masak berdasarkan frekuensi penggunaan, dengan barang-barang yang paling sering digunakan berada di tempat 
-        yang mudah dijangkau.
-    </p>
-  </li>
-
-  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Rapikan Kabel-Kabel Listrik :
-    <p>
-        Salah satu penyebab kekacauan di dapur adalah kabel-kabel listrik yang berserakan di sekitar countertop. 
-        Gunakan klem kabel atau kawat pengikat untuk merapikan kabel-kabel dan menghindari kemungkinan kecelakaan.
-    </p>
-  </li>
-
-  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Gunakan Label untuk Penyimpanan Bahan Makanan :
-    <p>
-        Agar lebih mudah menemukan bahan makanan di dapur, gunakan label untuk mengidentifikasi isinya. 
-        Anda dapat menggunakan label berwarna-warni atau label yang dapat digambar, tergantung pada preferensi dan gaya Anda.
-    </p>
-  </li>
-
-  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Pilih Warna yang Serasi :
-    <p>
-        Warna dapat memengaruhi suasana hati dan memberikan kesan rapi atau berantakan di dapur Anda. 
-        Pilihlah warna-warna yang serasi dan menenangkan, seperti putih, biru muda, atau hijau pastel, 
-        untuk menciptakan tampilan yang rapi dan nyaman di mata.
-    </p>
-  </li>
-
-  <li style="margin-inline-start: 2.5%; margin-top:2%; text-align: justify; margin-right:2%;">
-    Bersihkan dan Rapihkan Setelah Setiap Penggunaan :
-    <p>
-        Terakhir, tetapkan kebiasaan untuk membersihkan dan merapikan dapur setelah setiap penggunaan. 
-        Buang sisa-sisa makanan, cuci piring, dan kembali tempatkan peralatan masak ke tempatnya masing-masing. 
-        Dengan begitu, Anda akan selalu memiliki dapur yang siap digunakan kapan pun Anda membutuhkannya.
-    </p>
-  </li>
-
-  <p style="margin-inline-start: 2.5%; margin-top: 4%; text-align: justify; margin-right:2%;">
-    Dengan menerapkan tips-tips sederhana ini, Anda dapat menciptakan dapur yang rapi dan nyaman di mata. 
-    Dapur yang terorganisir dengan baik bukan hanya memberikan kepraktisan dalam memasak, 
-    tetapi juga menciptakan suasana yang menyenangkan dan mengundang untuk dihabiskan waktu bersama keluarga dan teman-teman. 
-    Jadi, mari kita mulai mengatur dapur dan jelajahi kenyamanan dalam keteraturan!
-  </p>
-</div>
+    <img style="margin-inline-start: 2%; margin-top: -6%;" src="images/eatways2.png" alt="email" width="200" height="70">
   
-
-  <p style="margin-inline-start: 2.5%; margin-top:4%; text-align: justify; margin-right:2%;">
-    Selamat Mencoba!
+  <div style="margin-inline-start: 2.5%; margin-top: 1%; text-align: justify; margin-right:2%;">
+  <p>
+    Eksplorasi Kenikmatan Italia: Pizza dengan Keju Mozzarella yang Menggoda
   </p>
+  <p class="paragraph1">
+    Pizza, salah satu ikon kuliner Italia yang tak terbantahkan, telah memikat lidah para penikmat makanan di seluruh dunia. 
+    Dengan paduan sempurna antara adonan yang renyah, saus tomat yang kaya, dan lapisan keju mozzarella yang melimpah, pizza 
+    telah mengambil tempat istimewa di hati semua orang. Mari kita telusuri lebih dalam tentang kenikmatan di balik setiap gigitan 
+    pizza dengan keju mozzarella yang menggoda, memahami bagaimana hidangan ini telah menjadi simbol dari kelezatan kuliner Italia.
+  </p>
+
+  <p>
+    Asal Usul
+    </p>
+    <p class="paragraph1">
+        Pizza memiliki akar yang kuat dalam sejarah kuliner Italia dan diyakini telah ada sejak zaman kuno. 
+        Awalnya, pizza adalah makanan yang sederhana, hanya terdiri dari adonan tipis yang dilapisi saus tomat dan keju. 
+        Namun, dengan berjalannya waktu, pizza berkembang menjadi hidangan yang lebih beragam dengan tambahan berbagai 
+        topping dan keju. Keju mozzarella, dengan kelembutan dan rasa gurihnya, menjadi bintang utama di atas setiap pizza.
+    </p>
+
+    <p>
+        Pizza dalam Sorotan Dunia
+      </p>
+      <p class="paragraph1">
+        Eksplorasi global pizza dimulai ketika para imigran Italia membawa tradisi kuliner mereka ke Amerika Serikat pada abad ke-19. 
+        Pizza dengan cepat meraih popularitas di kalangan masyarakat Amerika dan menjadi salah satu makanan paling disukai di sana. 
+        Dari sana, pizza menyebar ke seluruh dunia, menjadi salah satu hidangan internasional yang paling diinginkan dan diakui.
+      </p>
+      <p class="paragraph2">
+        Pizza bukan hanya tentang rasa yang lezat; itu adalah cerita tentang kekayaan budaya, tradisi kuliner, 
+        dan kerajinan tangan yang dihargai oleh para penikmatnya. Setiap gigitan pizza membawa kita pada petualangan 
+        kuliner yang melintasi batas-batas negara dan budaya, menawarkan pengalaman kuliner yang tak terlupakan. 
+        Tidak heran jika pizza dengan keju mozzarella tetap menjadi hidangan favorit di seluruh dunia, menciptakan kenikmatan yang tak tertandingi di setiap meja makan.
+</div>
 
 <style>
-  .paragraph {
-    list-style-type: decimal;
+  .paragraph1 {
+    margin-top: 1%;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 500;
+  }
+
+  .paragraph2 {
+    margin-top: 4%;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 500;
+    color: #000000;
   }
 </style>
 
+<h1 style="font-weight: 600; color: #000000; font-size: 20px; margin-left: 25px; margin-top: 40px; margin-bottom: -11px;">
+Cek kulineran yang lain yuk!
+</h1>
+
+<div class="gallery">
+  <a target="_blank" href="pizza.png">
+    <img src="images/taco.png" alt="pizza" width="600" height="400">
+  </a>
+  <div class="desc">Taco, makanan yang sederhana namun memiliki kelezatan tak tertandingi!</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="dimsum.png">
+    <img src="images/dimsum.png" alt="dimsum" width="600" height="400">
+  </a>
+  <div class="desc">Dimsum khas Tiongkok! Yakin gak mau nyoba?</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="croissant.png">
+    <img src="images/croissant.png" alt="croissant" width="600" height="400">
+  </a>
+  <div class="desc">Tips Memilih Bahan Makanan agar Hasil Masakan-mu Enak!</div>
+</div>
+
+<style>
+  div.gallery {
+    margin: 30px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1); 
+    float: left;
+    width: 380px;
+    margin-inline-start: 77px;
+  }
+  </style>
 <div class="footer">
-    <img class="imagefooter1" src="images/footer1.png" alt="imagefooter" width="100%" height="100%">
-    <button class ="button-footer" onclick="window.location.href='{{ url('/belanja') }}'"> Kunjungi Toko EatWays! </button>
-  </div>
+  <img class="imagefooter1" src="images/footer1.png" alt="imagefooter" width="100%" height="100%">
+  <button class ="button-footer" onclick="window.location.href='{{ url('/belanja') }}'"> Kunjungi Toko EatWays! </button>
+</div>
 
 <style>
   .button-footer {

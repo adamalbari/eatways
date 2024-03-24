@@ -109,27 +109,26 @@
 </style>
 
 
-  <div class="gallery">
-    <a target="_blank" href="image6.png">
-      <img src="images/image6.png" alt="asahpisau" width="600" height="400">
-    </a>
-    <div class="desc">Tips mengasah pisau agar awet dan tajam, Wajib paham!</div>
-  </div>
-  
-  <div class="gallery">
-    <a target="_blank" href="image6(1).png">
-      <img src="images/image6(1).png" alt="dapurrumah" width="600" height="400">
-    </a>
-    <div class="desc">Tips Organisasi Dapur agar Lebih Rapi dan Nyaman di Lihat!</div>
-  </div>
-  
-  <div class="gallery">
-    <a target="_blank" href="image6(2).png">
-      <img src="images/image6(2).png" alt="sayuran" width="600" height="400">
-    </a>
-    <div class="desc">Tips Memilih Bahan Makanan agar Hasil Masakan-mu Enak!</div>
-  </div>
+<div class="gallery">
+  <a target="_blank" href='{{ url('/tipspisau') }}'>
+    <img src="images/image6.png" alt="asahpisau" width="600" height="400">
+  </a>
+  <div class="desc">Tips mengasah pisau agar awet dan tajam, Wajib paham!</div>
+</div>
 
+<div class="gallery">
+  <a target="_blank" href='{{ url('/tipsdapur') }}'>
+    <img src="images/image6(1).png" alt="dapurrumah" width="600" height="400">
+  </a>
+  <div class="desc">Tips Organisasi Dapur agar Lebih Rapi dan Nyaman di Lihat!</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href='{{ url('/tipsbahan') }}'>
+    <img src="images/image6(2).png" alt="sayuran" width="600" height="400">
+  </a>
+  <div class="desc">Tips Memilih Bahan Makanan agar Hasil Masakan-mu Enak!</div>
+</div>
 
   <h1>Kuliner bareng Eatways !</h1>
 <p><span style="color: #FF910F; font-style: italic;">EatWays!</span> Punya rekomendasi kulineran yang enak lho! Yuk Kepoin!!</p>
@@ -141,7 +140,7 @@
   <div>
     <h2>Kuliner asal <span style="color: #ff910f;">Meksiko!</span> Taco, dengan daging cincang asap!!</h2>
     <p class="taco">Taco, makanan yang begitu sederhana namun memiliki kelezatan  tak tertandingi, telah menjadi ikon kuliner Meksiko...</p>
-    <button type="button" class="btn btn-warning" 
+    <button type="button" class="btn btn-warning" onclick="window.location.href='{{ url('/kuliner2') }}'"
     style=
     "background-color: orange; 
     margin-left: 30px;
@@ -179,7 +178,7 @@
     padding: 10px 220px; 
     margin-top: 10px;
     color: white;
-    margin-inline-start: 5%;" 
+    margin-inline-start: 5%;" onclick="window.location.href='{{ url('/sushi') }}'" 
     >Baca Selengkapnya</button>
   </div>
   <a target="_blank" href="sushi.png">
@@ -206,7 +205,7 @@
 
 <div class="footer">
   <img class="imagefooter1" src="images/footer1.png" alt="imagefooter" width="100%" height="100%">
-  <button class ="button-footer"> Kunjungi Toko EatWays! </button>
+  <button class ="button-footer" onclick="window.location.href='{{ url('/belanja') }}'"> Kunjungi Toko EatWays! </button>
 </div>
 
 <style>

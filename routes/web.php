@@ -70,3 +70,27 @@ Route::get('/nasgor', function () {
 Route::get('/miayam', function () {
     return view('miayam', ['pageTitle' => 'miayam']);
 });
+
+Route::get('/tipsdapur', function () {
+    return view('tipsdapur', ['pageTitle' => 'tipsdapur']);
+});
+
+Route::get('/tipspisau', function () {
+    return view('tipspisau', ['pageTitle' => 'tipspisau']);
+});
+
+Route::get('/tipsbahan', function () {
+    return view('tipsbahan', ['pageTitle' => 'tipsbahan']);
+});
+
+Route::get('/sushi', function () {
+    return view('sushi', ['pageTitle' => 'sushi']);
+});
+
+Route::get('/tambahresep', function () {
+    return view('tambahresep', ['pageTitle' => 'tambahresep']);
+});
+
+Route::get('/pizza', function () {
+    return view('pizza', ['pageTitle' => 'pizza']);
+});
