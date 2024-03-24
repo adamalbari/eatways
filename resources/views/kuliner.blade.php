@@ -118,7 +118,7 @@
     </style>
     
     <div style="text-align: center;">
-      <button type="button" style="background-color:#FF910F; color: white; border: none; border-radius: 10px; width: 450px; height: 35px; margin-top: 30px; margin-bottom:3%;">LIHAT TIPS LAINNYA</button>
+      <button type="button" style="background-color:#FF910F; color: white; border: none; border-radius: 10px; width: 450px; height: 35px; margin-top: 30px; margin-bottom:3%;">LIHAT TIPS EATWAYS</button>
     </div>
     
     <div class="footer">

@@ -116,10 +116,9 @@ div.gallery {
 }
 </style>
 
-{{-- <div style="text-align: center; margin-bottom: 3%">
-  <button type="button" style="background-color:#FF910F; color: white; border: none; border-radius: 10px; width: 450px; height: 35px; margin-top: 30px;" 
-  onclick="window.location.href='{{ url('/tips') }}'">LIHAT TIPS LAINNYA</button>
-</div> --}}
+<div style="text-align: center;">
+  <button type="button" style="background-color:#FF910F; color: white; border: none; border-radius: 10px; width: 450px; height: 35px; margin-top: 30px; margin-bottom:3%;">LIHAT KULINER EATWAYS</button>
+</div>
 
 <div class="footer">
   <img class="imagefooter1" src="images/footer1.png" alt="imagefooter" width="100%" height="100%">
